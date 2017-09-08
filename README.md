@@ -5,6 +5,8 @@
 Build Docker image:
 
 ```
+$ cd Build-Docker
+
 $ docker build . -t <your username>/identidock
 ```
 
